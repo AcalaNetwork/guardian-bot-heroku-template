@@ -1,8 +1,8 @@
 {
   "name": "Acala Collateral Auction Bot",
+  "description": "Bid on collateral auction and swap to aUSD after auction is dealed",
   "repository": "https://github.com/AcalaNetwork/collateral-auction-bot-template",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": ["node", "acala", "collateral", "auction", "bot", "guardian"],
+  "keywords": ["node", "acala", "collateral", "auction", "bot", "guardian", "heroku"],
   "env": {
     "NODE_ENDPOINT": {
       "description": "WebSocket node endpoint to connect",
