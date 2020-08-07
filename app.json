@@ -2,5 +2,23 @@
   "name": "Acala Collateral Auction Bot",
   "repository": "https://github.com/AcalaNetwork/collateral-auction-bot-template",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": ["node", "acala", "collateral", "auction", "bot", "guardian"]
+  "keywords": ["node", "acala", "collateral", "auction", "bot", "guardian"],
+  "env": {
+    "NODE_ENDPOINT": {
+      "description": "WebSocket node endpoint to connect",
+      "value": "wss://testnet-node-1.acala.laminar.one/ws"
+    },
+    "BIDDER_SURI": {
+      "description": "Bidder SURI",
+      "value": "//Charlie"
+    },
+    "BIDDER_ADDRESS": {
+      "description": "Bidder address",
+      "value": "5FLSigC9HGRKVhB9FiEo4Y3koPsNmBmLJbpXg2mp1hXcS59Y"
+    },
+    "MARGIN": {
+      "description": "How much to reduce bid price compared to current market price",
+      "value": "0.1"
+    }
+  }
 }
