@@ -5,8 +5,5 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@open-web3/example-guardian": "^0.3.0-beta.22"
-  },
-  "scripts": {
-    "start": "collateral-auction-guardian"
   }
 }
