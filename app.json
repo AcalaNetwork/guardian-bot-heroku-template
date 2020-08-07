@@ -1,0 +1,6 @@
+{
+  "name": "Acala Collateral Auction Bot",
+  "repository": "https://github.com/AcalaNetwork/collateral-auction-bot-template",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "acala", "collateral", "auction", "bot", "guardian"]
+}
