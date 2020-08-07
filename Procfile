@@ -1,2 +1,1 @@
-web: 0
-worker: yarn collateral-auction-guardian
+web: yarn collateral-auction-guardian
