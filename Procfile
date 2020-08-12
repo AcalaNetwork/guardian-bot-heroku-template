@@ -1,1 +1,1 @@
-web: yarn collateral-auction-guardian
+web: node index.js & yarn collateral-auction-guardian
