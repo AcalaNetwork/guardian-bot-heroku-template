@@ -8,11 +8,11 @@
       "description": "WebSocket node endpoint to connect",
       "value": "wss://testnet-node-1.acala.laminar.one/ws"
     },
-    "BIDDER_SURI": {
+    "SURI": {
       "description": "Bidder SURI",
       "value": "//Charlie"
     },
-    "BIDDER_ADDRESS": {
+    "ADDRESS": {
       "description": "Bidder address",
       "value": "5FLSigC9HGRKVhB9FiEo4Y3koPsNmBmLJbpXg2mp1hXcS59Y"
     },
