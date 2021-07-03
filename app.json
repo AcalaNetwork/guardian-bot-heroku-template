@@ -1,12 +1,12 @@
 {
   "name": "Acala Collateral Auction Bot",
-  "description": "Bid on collateral auction and swap to aUSD after auction is dealed",
+  "description": "Bid on collateral auction and swap to stable coin after auction is dealed",
   "repository": "https://github.com/AcalaNetwork/collateral-auction-bot-template",
   "keywords": ["node", "acala", "collateral", "auction", "bot", "guardian", "heroku"],
   "env": {
     "NODE_ENDPOINT": {
       "description": "WebSocket node endpoint to connect",
-      "value": "wss://mandala.laminar.codes/ws"
+      "value": "wss://acala-mandala.api.onfinality.io/public-ws"
     },
     "SURI": {
       "description": "Bidder SURI",
