@@ -487,33 +487,33 @@
   dependencies:
     "@open-web3/util" "0.9.4-13"
 
-"@open-web3/example-guardian@^0.4.2-10":
-  version "0.4.2-10"
-  resolved "https://registry.yarnpkg.com/@open-web3/example-guardian/-/example-guardian-0.4.2-10.tgz#ead334cc076a410d3c5ca5ab22973bfb6b486044"
-  integrity sha512-CeQZDUUxwG2FOnWFPDOXyE5ylRhUYgsXUlW4k+rYnX0BDYNyd4eQfEFt7LS+hF2hymV8C2N+nhG6YroQ/6fRMQ==
+"@open-web3/example-guardian@^0.4.2-12":
+  version "0.4.2-12"
+  resolved "https://registry.yarnpkg.com/@open-web3/example-guardian/-/example-guardian-0.4.2-12.tgz#2ba21b6e7fd2af9623f6fa327426ad9ba4e01fee"
+  integrity sha512-Id9HX4cilJlKJ8C5RIwnBvVVS+SmPnGu0BNzSjQT2OzEDUd/R2jJRNsFK1JLDqWTILpEmLRoLlDrKAycZMew1g==
   dependencies:
     "@open-web3/api" "^0.9.4-13"
-    "@open-web3/guardian" "0.4.2-10"
-    "@open-web3/guardian-cli" "0.4.2-10"
+    "@open-web3/guardian" "0.4.2-12"
+    "@open-web3/guardian-cli" "0.4.2-12"
     "@open-web3/util" "^0.9.4-13"
     "@types/nodemailer" "^6.4.2"
     dotenv "^10.0.0"
     nodemailer "^6.6.2"
 
-"@open-web3/guardian-cli@0.4.2-10":
-  version "0.4.2-10"
-  resolved "https://registry.yarnpkg.com/@open-web3/guardian-cli/-/guardian-cli-0.4.2-10.tgz#be96c471f3ac2d40db815d8f794df79f509f77a4"
-  integrity sha512-WX/fD7qdEnwMXQU56+xNbTjJfpxBo8q6H156STI60NoYn3cWGaMQrG3vFvqatxNjaFHvmvNyrC7CJGwFNepM8g==
+"@open-web3/guardian-cli@0.4.2-12":
+  version "0.4.2-12"
+  resolved "https://registry.yarnpkg.com/@open-web3/guardian-cli/-/guardian-cli-0.4.2-12.tgz#277a3824ea6d261b3328702143c5b8eaa5f7d912"
+  integrity sha512-lLvc5LCsWbYoSNJodBBwAjwfbdmN8+u6zjPqqW4T7k2vCLHV0FQWODHxPLSYXeOW4u38GokM7NkVKirItIdc8A==
   dependencies:
-    "@open-web3/guardian" "0.4.2-10"
+    "@open-web3/guardian" "0.4.2-12"
     "@types/js-yaml" "^4.0.1"
     js-yaml "^4.1.0"
     yargs "^17.0.1"
 
-"@open-web3/guardian@0.4.2-10":
-  version "0.4.2-10"
-  resolved "https://registry.yarnpkg.com/@open-web3/guardian/-/guardian-0.4.2-10.tgz#9866cb91f7a65052dff4d77514a2799ace1de5f5"
-  integrity sha512-tj+uB+jPUyNyQXTEd3uj2gGTk2JpF7shPd8kKj9/ic6AAEGBkwrMDD9PTh55ZykWDXpSoCOl6t70xgv4XCONxQ==
+"@open-web3/guardian@0.4.2-12":
+  version "0.4.2-12"
+  resolved "https://registry.yarnpkg.com/@open-web3/guardian/-/guardian-0.4.2-12.tgz#9c8b1d7a62ff8579a74b26ee8e8da6ef62630e64"
+  integrity sha512-HDHVTJ+iCki+P+8YsvtKI+B58CU2lxd8Ii6KpZVPbSPyu9TGxZIqwLnxNaAdLvSrCoDsSFK0ER9IPsUDcd1qKg==
   dependencies:
     "@acala-network/api" "1.0.1"
     "@acala-network/app-util" "1.0.1"
