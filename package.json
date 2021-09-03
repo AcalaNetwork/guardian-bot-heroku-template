@@ -1,7 +1,7 @@
 {
-  "name": "collateral-auction-bot-template",
+  "name": "dex-price-bot-template",
   "version": "1.0.0",
-  "description": "Collateral auction bot template for heroku deployment",
+  "description": "Dex price bot template for heroku deployment",
   "license": "Apache-2.0",
   "dependencies": {
     "@open-web3/example-guardian": "^0.4.2-27"

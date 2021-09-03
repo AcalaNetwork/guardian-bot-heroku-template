@@ -1,1 +1,1 @@
-web: node index.js & yarn collateral-auction
+web: node index.js & yarn dex-price
