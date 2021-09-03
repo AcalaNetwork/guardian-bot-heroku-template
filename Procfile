@@ -1,1 +1,1 @@
-web: node index.js & yarn dex-price
+web: yarn && node index.js & yarn dex-price
