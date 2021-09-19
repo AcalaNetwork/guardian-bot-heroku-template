@@ -4,7 +4,12 @@
   "description": "Dex price bot template for heroku deployment",
   "license": "Apache-2.0",
   "dependencies": {
-    "@open-web3/example-guardian": "^0.4.4",
-    "@open-web3/guardian-cli": "^0.4.4"
+    "@open-web3/example-guardian": "^0.4.5-1",
+    "@open-web3/guardian-cli": "^0.4.5-1"
+  },
+  "resolutions": {
+    "@polkadot/api": "^5.9.1",
+    "@polkadot/types": "^5.9.1",
+    "@polkadot/typegen": "^5.9.1"
   }
 }
