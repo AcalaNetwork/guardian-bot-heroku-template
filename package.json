@@ -3,7 +3,18 @@
   "version": "1.0.0",
   "description": "Collateral auction bot template for heroku deployment",
   "license": "Apache-2.0",
+  "resolutions": {
+    "typescript": "^4.3.5",
+    "@polkadot/api": "^5.9.1",
+    "@polkadot/types": "^5.9.1",
+    "@polkadot/typegen": "^5.9.1",
+    "@open-web3/orml-types": "^0.9.4-34",
+    "@open-web3/orml-type-definitions": "^0.9.4-34",
+    "@open-web3/orml-api-derive": "^0.9.4-34",
+    "rxjs": "^7.3.0"
+  },
   "dependencies": {
-    "@open-web3/example-guardian": "^0.4.2-12"
+    "@open-web3/example-guardian": "^0.4.5-1",
+    "@open-web3/guardian-cli": "^0.4.5-1"
   }
 }
