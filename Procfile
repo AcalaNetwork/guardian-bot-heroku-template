@@ -1,1 +1,1 @@
-web: yarn && node index.js & yarn dex-price
+web: node index.js & yarn staking
