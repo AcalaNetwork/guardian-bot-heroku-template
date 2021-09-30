@@ -1,5 +1,5 @@
 {
-  "name": "Acala Collateral Auction Bot",
+  "name": "Guardian Bot Heroku Template",
   "description": "Bid on collateral auction and swap to stable coin after auction is dealed",
   "repository": "https://github.com/AcalaNetwork/collateral-auction-bot-template/tree/dex-price-bot",
   "keywords": [
@@ -14,15 +14,15 @@
   "env": {
     "NODE_ENDPOINT": {
       "description": "WebSocket node endpoint to connect",
-      "value": "wss://mandala6.laminar.codes/"
+      "value": "wss://karura.api.onfinality.io/public-ws"
     },
     "TOKEN_A": {
       "description": "TOKEN_A",
-      "value": "DOT"
+      "value": "KUSD"
     },
     "TOKEN_B": {
       "description": "TOKEN_A",
-      "value": "AUSD"
+      "value": "KSM"
     }
   }
 }
