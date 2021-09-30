@@ -13,15 +13,15 @@ Each of the bot's examples includes environment variables you need to setup. To 
 "env": {
     "NODE_ENDPOINT": {
       "description": "WebSocket node endpoint to connect",
-      "value": ""wss://karura.api.onfinality.io/public-ws"
+      "value": "wss://mandala6.laminar.codes/"
     },
     "TOKEN_A": {
       "description": "TOKEN_A",
-      "value": "KUSD"
+      "value": "DOT"
     },
     "TOKEN_B": {
       "description": "TOKEN_A",
-      "value": "KSM"
+      "value": "AUSD"
     }
   }
 }
@@ -41,7 +41,9 @@ To deploy code to Heroku with current settings you can use the button below:
 
 After clicking `Deploy` you will be presented with default parameters for DeX Price Bot:
 
-![](https://i.imgur.com/f8BK02X.png)
+![](https://i.imgur.com/xYDRDqz.png)
+
+
 
 After clicking `Deploy app` in Heroku in the interface the app will install dependencies and run the HTTP server along with DeX Price bot. The web interface of the UI should display the text `It's running...`
 
