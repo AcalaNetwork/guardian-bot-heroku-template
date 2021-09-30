@@ -13,15 +13,15 @@ Each of the bot's examples includes environment variables you need to setup. To 
 "env": {
     "NODE_ENDPOINT": {
       "description": "WebSocket node endpoint to connect",
-      "value": "wss://mandala6.laminar.codes/"
+      "value": ""wss://karura.api.onfinality.io/public-ws"
     },
     "TOKEN_A": {
       "description": "TOKEN_A",
-      "value": "DOT"
+      "value": "KUSD"
     },
     "TOKEN_B": {
       "description": "TOKEN_A",
-      "value": "AUSD"
+      "value": "KSM"
     }
   }
 }
